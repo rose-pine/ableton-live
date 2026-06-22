@@ -15,7 +15,7 @@
 		<ScrollbarLCDHandle Value="$muted-1" />
 		<ScrollbarLCDTrack Value="$surface" />
 		<ScrollbarMixerShowOnScrollHandle Value="$base-1" />
-		<DetailViewBackground Value="$base" />
+		<DetailViewBackground Value="$surface" />
 		<PreferencesTab Value="$surface" />
 		<SelectionFrame Value="$subtle+1" />
 		<ControlBackground Value="$base" />
@@ -133,7 +133,7 @@
 		<GridLabel Value="$text-1" />
 		<GridLineBase Value="$base-1" />
 		<ArrangerGridTiles Value="$base+1/80" />
-		<DetailGridTiles Value="$base/80" />
+		<DetailGridTiles Value="$highlight_med/40" />
 		<GridGuideline Value="$text" />
 		<OffGridGuideline Value="$muted-1" />
 		<TreeColumnHeadBackground Value="$overlay" />
@@ -281,7 +281,7 @@
 			<Minimum Value="#ffa519" />
 		</OrangeVuMeter>
 		<MainViewFocusIndicator Value="$base" />
-		<MidiEditorBlackKeyBackground Value="$highlight_low" />
+    <MidiEditorBlackKeyBackground Value="$highlight_low/4/400" />
 		<MidiEditorBackgroundWhiteKeySeparator Value="$highlight_med" />
 		<RangeEditField3 Value="$iris-2" />
 		<ScrollbarInnerHandleHover Value="$muted-2" />

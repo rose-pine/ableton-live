@@ -15,7 +15,7 @@
 		<ScrollbarLCDHandle Value="#64607b" />
 		<ScrollbarLCDTrack Value="#1f1d2e" />
 		<ScrollbarMixerShowOnScrollHandle Value="#181622" />
-		<DetailViewBackground Value="#191724" />
+		<DetailViewBackground Value="#1f1d2e" />
 		<PreferencesTab Value="#1f1d2e" />
 		<SelectionFrame Value="#9995b1" />
 		<ControlBackground Value="#191724" />
@@ -133,7 +133,7 @@
 		<GridLabel Value="#bebae8" />
 		<GridLineBase Value="#181622" />
 		<ArrangerGridTiles Value="#2b283ecc" />
-		<DetailGridTiles Value="#191724cc" />
+		<DetailGridTiles Value="#403d5266" />
 		<GridGuideline Value="#e0def4" />
 		<OffGridGuideline Value="#64607b" />
 		<TreeColumnHeadBackground Value="#26233a" />
@@ -281,7 +281,7 @@
 			<Minimum Value="#ffa519" />
 		</OrangeVuMeter>
 		<MainViewFocusIndicator Value="#191724" />
-		<MidiEditorBlackKeyBackground Value="#21202e" />
+    <MidiEditorBlackKeyBackground Value="#21202e0a/400" />
 		<MidiEditorBackgroundWhiteKeySeparator Value="#403d52" />
 		<RangeEditField3 Value="#9e6fd8" />
 		<ScrollbarInnerHandleHover Value="#5b586f" />
