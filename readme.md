@@ -24,3 +24,8 @@
 
 ![Rosé Pine](https://i.imgur.com/knnAx3w.png)
 ![Rosé Pine Moon](https://i.imgur.com/exEFJ5C.png)
+
+## Note
+
+I ommited the dawn variant since getting the dark variants to look good took a few days, and i don't use dawn myself.
+If you want to try it anyway or want to contribute, you can build the template with [rose-pine-build](https://github.com/juliamertz/rose-pine-build)
